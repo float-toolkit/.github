@@ -16,4 +16,4 @@ You can round floats down to any number of digits, and perform accurate math ope
 -   TypeScript type declarations
 -   Compatible with browsers and [Node.js](https://nodejs.org)
 -   \> 95% code coverage
--   Has wrappers for Vanilla JS and [React](https://reactjs.org).
+-   Has wrappers for Vanilla JS, [React](https://reactjs.org) and [Angular](https://angular.io).
